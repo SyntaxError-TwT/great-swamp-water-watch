@@ -68,3 +68,6 @@ footer{background:#061b2b}
 .formula b{font-size:1rem;line-height:1.35;overflow-wrap:anywhere}
 @media(max-width:900px){.project-card{grid-template-columns:1fr;gap:40px}.project-copy h2{max-width:12em}.formula{max-width:none}}
 @media(max-width:560px){.project-card{padding:28px}.project-copy h2{font-size:2.35rem}.formula{grid-template-columns:1fr}.formula div{min-height:120px}}
+
+.report-label{display:inline-block;font-size:.64rem;letter-spacing:.16em;font-weight:800;color:#075da8;background:#ccefff;border-radius:100px;padding:7px 11px}
+.report-address{display:inline-block;margin:22px 0 0;padding:10px 13px;border-radius:10px;background:#fff;color:#075da8!important;font-weight:700;overflow-wrap:anywhere}
