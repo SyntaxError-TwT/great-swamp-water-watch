@@ -71,3 +71,4 @@ footer{background:#061b2b}
 
 .report-label{display:inline-block;font-size:.64rem;letter-spacing:.16em;font-weight:800;color:#075da8;background:#ccefff;border-radius:100px;padding:7px 11px}
 .report-address{display:inline-block;margin:22px 0 0;padding:10px 13px;border-radius:10px;background:#fff;color:#075da8!important;font-weight:700;overflow-wrap:anywhere}
+.form-error{display:none;margin-top:15px;background:#f9e2dc;color:#7b3326;padding:12px;border-radius:10px;font-size:.82rem}.form-error.show{display:block}.report-layout button:disabled{cursor:wait;opacity:.7;transform:none}
